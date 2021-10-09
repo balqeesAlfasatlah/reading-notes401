@@ -40,3 +40,16 @@
 
 
 ![](https://lh3.googleusercontent.com/proxy/TsGbDPoj8twaGsrRnmS3PnRAmyIXz_ZfzP8eC3h63qxYLRrpGjdCh8Bc3-5tVEahGnQIB6WbvoeKK_i4pVkjcomnFn9paV6XK0s9h0nNgO5xBVZMyWUTrhRNqw)
+
+---
+## What does it mean to compile code ?
+
++ everything in a computer is represented by a series of 1's and 0's , When the computer runs a program, the program itself is made of a bunch of 1's and 0's.
+
++  we need humans to write programs, putting everything in 1's and 0's (machine language) would be very difficult. So we made higher level languages like Java to write code in. These languages look a lot more like English, so they're a lot easier to write and maintain.
+
++ When you compile code, the compilor (another program) takes the program the human wrote, and converts it into the program the computer can understand (i.e. converts from Java to machine language). The very short version could be, yes, compile means to make the code executable.
+
++ when people saying code does or does not compile. This means the compilor they used checks to make sure their program is written correctly according to the rules of the programming language.
+
+![](https://static.javatpoint.com/core/images/java-interpreter.png)
