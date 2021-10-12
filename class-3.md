@@ -20,7 +20,7 @@
 
 + the primitive types live in the stack while the reference types live in the heap. This is a dominant factor that determines how fast the objects get be accessed.
 
-### **Default Values** :
+### **Default Values** 
 
 + Default values of the primitive types :
 
@@ -53,16 +53,16 @@
  
  2- A method that specifies that it can throw the exception.
 
-+  **The try Block** :
++  **The try Block** 
 
 ![](https://image.slidesharecdn.com/exceptionhandling-180813200205/95/exception-handling-21-638.jpg?cb=1534190573)
 
-+ **The catch Blocks** :
++ **The catch Blocks** 
 
 ![](https://image.slidesharecdn.com/5-exceptionhandling-190701213934/95/exception-handling-10-638.jpg?cb=1562017200)
 
 
-+ **The finally Block** :
++ **The finally Block** 
 
 1- It always executes when the try block exits. This ensures that the finally block is executed even if an unexpected exception occurs.
 
