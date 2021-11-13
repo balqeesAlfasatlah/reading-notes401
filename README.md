@@ -37,5 +37,5 @@ In this website you can found all my reading notes during my journey with ASAc, 
 17. [class-17](https://balqeesalfasatlah.github.io/reading-notes401//class-17)
 18. [class-18](https://balqeesalfasatlah.github.io/reading-notes401//class-18)
 19. [class-19](https://balqeesalfasatlah.github.io/reading-notes401//class-19)
-20. [class-20](https://balqeesalfasatlah.github.io/reading-notes401//class-20)
+20. [android-fundamentals](https://balqeesalfasatlah.github.io/reading-notes401//android-fundamentals)
 21. [class-21](https://balqeesalfasatlah.github.io/reading-notes401//class-21)
