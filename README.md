@@ -45,6 +45,7 @@ In this website you can found all my reading notes during my journey with ASAc, 
 25. [espresso](https://balqeesalfasatlah.github.io/reading-notes401//espresso)
 26. [serverless-amplify](https://balqeesalfasatlah.github.io/reading-notes401//serverless-amplify)
 27. [graphQL](https://balqeesalfasatlah.github.io/reading-notes401//graphQL)
+28. [monetization](https://balqeesalfasatlah.github.io/reading-notes401//monetization)
 
 
 
