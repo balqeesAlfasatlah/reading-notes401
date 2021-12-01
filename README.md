@@ -50,6 +50,7 @@ In this website you can found all my reading notes during my journey with ASAc, 
 30. [cognito](https://balqeesalfasatlah.github.io/reading-notes401//cognito)
 31. [S3](https://balqeesalfasatlah.github.io/reading-notes401//S3)
 32. [Notifications](https://balqeesalfasatlah.github.io/reading-notes401//Notifications)
+33. [Kinesis](https://balqeesalfasatlah.github.io/reading-notes401//Kinesis)
 
 
 
