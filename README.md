@@ -52,6 +52,8 @@ In this website you can found all my reading notes during my journey with ASAc, 
 32. [Notifications](https://balqeesalfasatlah.github.io/reading-notes401//Notifications)
 33. [Kinesis](https://balqeesalfasatlah.github.io/reading-notes401//Kinesis)
 34. [Intent-Filters](https://balqeesalfasatlah.github.io/reading-notes401//Intent-Filters)
+35. [OSS-Contributions](https://balqeesalfasatlah.github.io/reading-notes401//OSS-Contributions)
+
 
 
 
